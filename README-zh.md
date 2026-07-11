@@ -11,7 +11,7 @@
 ## 安装
 
 ```bash
-pi install npm:pi-ask
+pi install npm:@eddie0521/pi-ask
 ```
 
 安装并重启 pi 后，模型即可调用：

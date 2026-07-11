@@ -1,5 +1,5 @@
 {
-  "name": "pi-ask",
+  "name": "@eddie0521/pi-ask",
   "version": "0.1.0",
   "description": "Interactive questionnaire tool for the Pi coding agent — single or multi-question forms with tab navigation, multi-select, and free-text answers.",
   "keywords": [

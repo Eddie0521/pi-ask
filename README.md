@@ -11,7 +11,7 @@ A Pi extension that gives the model a `questionnaire` tool: one question renders
 ## Install
 
 ```bash
-pi install npm:pi-ask
+pi install npm:@eddie0521/pi-ask
 ```
 
 Once installed and pi restarted, the model can call:
